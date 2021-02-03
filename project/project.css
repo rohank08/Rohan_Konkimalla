@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-image: url("./static/los\ angrlesis\ -\ 2.jpg");
+    color:black;
+}
+    
+img{
+    border: solid black 2px ;
+    border-radius: 20%;
+}
+p{
+    border:solid black 5px;
+}
+  
+table,th,td{
+    border: solid black 3px;
+    margin-top: 200px;
+    margin-left: 175px;
+}
+
+ul li{
+    background-color: white;
+}

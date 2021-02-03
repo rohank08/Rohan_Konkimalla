@@ -1,0 +1,11 @@
+body{
+    background-color:violet;
+    color: slateblue;
+    background-image: linear-gradient(red,green);
+    text-align: center;
+}
+form{
+    border: solid black 5px;
+    width:400px;
+    margin-left: 420px;
+}

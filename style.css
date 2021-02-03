@@ -1,0 +1,28 @@
+.b1{
+    text-align: center;
+    color:cornflowerblue;
+    background-color: blue;
+    border-radius: 50%;
+}
+.b2{
+    text-align: center;
+    color: blue;
+    background-color: cornflowerblue;
+    border-radius: 50px;
+}
+.b3{
+    text-align: center;
+    color:white;
+    background-color: green;
+    border-radius: 360px;
+}
+.b4{
+    text-align: center;
+    color: white;
+    background-color: rgb(154, 154, 158);
+    border-radius: 10px;
+}
+.b1,.b2,.b3,.b4{
+    padding: 10px;
+    margin-left: 300px;
+}

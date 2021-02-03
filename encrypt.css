@@ -1,0 +1,15 @@
+body{
+    background-color:cadetblue ;
+    color: white;
+    margin-top: 150px;
+    margin-left: 400px;
+    text-align: center;
+    width: fit-content;
+}
+.btn{
+    color: black;
+    background-color: skyblue;
+}
+.btn:hover{
+    background-color: green;
+}
